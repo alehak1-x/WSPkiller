@@ -13,3 +13,21 @@ Herramienta creada con la intención de eliminar a tu enemigo....
 3)Robar Grupos Viejos
 
 Y otras cosas mas
+
+¿como instalar mi herramienta?
+
+1)pkg install git
+
+2)pkg install python -y
+
+3)git clone https://github.com/alehak1-x/WSPkiller
+
+4)ls
+
+5)cd WSPkiller
+
+6)chmod 777 WSPkiller
+
+7) python WSPkiller.py
+
+eso es todo🤠✌🏾
