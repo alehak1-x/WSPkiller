@@ -28,6 +28,6 @@ Y otras cosas mas
 
 6)chmod 777 WSPkiller
 
-7) python WSPkiller.py
+7)python WSPkiller.py
 
 eso es todo🤠✌🏾
