@@ -26,7 +26,7 @@ Y otras cosas mas
 
 5)cd WSPkiller
 
-6)chmod 777 WSPkiller
+6)chmod 777 WSPkiller.py
 
 7)python WSPkiller.py
 
